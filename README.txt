@@ -9,4 +9,4 @@
 #aka 202iiiii,911
 #Target: hire lawyer to get motions
 cd classes
-java com.coreyja.hirelawyer.hirelawyer
+java com.coreyja.hirelawyer.Hirelawyer
